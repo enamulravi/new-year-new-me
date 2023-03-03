@@ -37,6 +37,8 @@
 }
 .person{
     display: flex;
+    margin-left: 100px;
+    margin-top: 120px;
 }
 .text{
     margin-top: 200px ;
@@ -56,11 +58,63 @@
     margin: 120px 300px;
 }
 .my-plan1{
-    padding: 0px 380px;
+    padding: 30px 380px;
     font-size: 30px;
+    
 }
 .skill{
     display: flex;
     justify-content: space-between;
-    margin: ;
+    
+}
+
+.show-bg{
+    
+    background-image:  url('images/watch.png');
+    margin:0px 180px ;
+    
+    padding: 50px 80px ;
+    
+    width: 50%;
+    text-align: left;
+    background-repeat: none;
+    background-size: 1400px 900px;
+    width: 70%;
+    border-radius: 8px;
+    font-size: 30px;
+    color: white;
+    
+}
+
+.btn2{
+    color: #f87159;
+    padding: 20px 40px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+}
+
+/* final section */
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin: 130px 0px;
+    background-color: rgb(29, 27, 27);
+    color: aliceblue;
+    padding: 80px 220px;
+}
+.footer1{
+    margin-right: 300px;
+}
+.future{
+    font-size: 30px;
+}
+
+.email{
+    color: white;
+    background-color: black;
+    padding: 10px 10px;
+    border-color: white;
+    border-radius: 5px;
 }
