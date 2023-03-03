@@ -1,0 +1,31 @@
+/* header section style */
+.header{
+    background-image: url(images/banner/banner1.png);
+    background-repeat: none;
+    background-size: 1600px 1000px;
+    text-align: right;
+    padding: 290px 307px;
+    
+    
+}
+
+.block1{
+    margin-left: 500px;
+    
+}
+.header-tittle{
+    font-size: 50px;
+}
+
+.btn1{
+    background-color: #f87159;
+    color: white;
+    border: none;
+    padding: 20px 15px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700px;
+}
+.header-subtittle{
+    color: grey;
+}
