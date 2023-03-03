@@ -29,3 +29,38 @@
 .header-subtittle{
     color: grey;
 }
+
+
+/* body section part1 */
+.d{
+    color: rgb(29, 224, 29);
+}
+.person{
+    display: flex;
+}
+.text{
+    margin-top: 200px ;
+    margin-right: 400px;
+    margin-left: 200px;
+}
+.text-tittle{
+    font-size: 35px;
+}
+.tik{
+    margin-left: -50px;
+    list-style: none;
+}
+
+/* my plan section  */
+.my-plan{
+    margin: 120px 300px;
+}
+.my-plan1{
+    padding: 0px 380px;
+    font-size: 30px;
+}
+.skill{
+    display: flex;
+    justify-content: space-between;
+    margin: ;
+}
